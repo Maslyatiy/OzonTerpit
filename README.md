@@ -7,7 +7,11 @@
 Считаю самое главное в этом проекте было добавить карусел и сделать так чтобы оно ещё было зафиленно РАЗНЫМИ изображениями
 
 вот так оно выглядит на poco f5 
-https://github.com/Maslyatiy/OzonTerpit/assets/73582371/df5a98c1-84e6-4533-8086-bc75e3b844de
+
+![image](https://github.com/Maslyatiy/OzonTerpit/assets/73582371/df5a98c1-84e6-4533-8086-bc75e3b844de)
+
+
+
 
 
 а вот так из браузера 
