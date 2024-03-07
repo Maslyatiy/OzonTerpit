@@ -9,7 +9,11 @@
 вот так оно выглядит на poco f5 
 
 
-![github](https://github.com/Maslyatiy/OzonTerpit/assets/73582371/86223bbd-5b79-486e-a741-622963fda82f)
+![video](https://github.com/Maslyatiy/OzonTerpit/assets/73582371/8b132d54-8c01-4bdc-91f0-7b6401e847ae)
+
+
+
+
 
 
 
