@@ -9,7 +9,7 @@
 вот так оно выглядит на poco f5 
 
 
-![video](https://github.com/Maslyatiy/OzonTerpit/assets/73582371/8b132d54-8c01-4bdc-91f0-7b6401e847ae)
+![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 
 
 
