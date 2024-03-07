@@ -8,7 +8,7 @@
 
 вот так оно выглядит на poco f5 
 
-![image](https://github.com/Maslyatiy/OzonTerpit/assets/73582371/df5a98c1-84e6-4533-8086-bc75e3b844de)
+![gif](https://github.com/Maslyatiy/OzonTerpit/assets/73582371/df5a98c1-84e6-4533-8086-bc75e3b844de)
 
 
 
