@@ -9,7 +9,7 @@
 вот так оно выглядит на poco f5 
 
 
-![til](https://github.com/Maslyatiy/OzonTerpit/assets/73582371/4cbf443b-cfbe-4b6c-b4ef-a9fc8713ed17)
+![til](document_5424768708184655928.mp4)
 
 
 
