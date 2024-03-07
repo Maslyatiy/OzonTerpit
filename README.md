@@ -1,16 +1,17 @@
-# ozon_ept
+Такс многое не успел из за дедлайно:
+1)Подправить сами карточки
+2)Добавить страницу логина(хотя там одно действие но ладно) 
+3)Добавить больше информации в товаре
+4)Доделать все карточки.
+Сделал так потому что мне надо отъехать, а дедлайн у нас суботта, все 15 карточек заполнять очень долго на самом деле, по этому заполнил только часть.
+Считаю самое главное в этом проекте было добавить карусел и сделать так чтобы оно ещё было зафиленно РАЗНЫМИ изображениями
 
-A new Flutter project.
+вот так оно выглядит на poco f5 
+https://github.com/Maslyatiy/OzonTerpit/assets/73582371/df5a98c1-84e6-4533-8086-bc75e3b844de
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+а вот так из браузера 
+![image](https://github.com/Maslyatiy/OzonTerpit/assets/73582371/57535260-717c-4622-8f9e-a856ce2feea9)
+![image](https://github.com/Maslyatiy/OzonTerpit/assets/73582371/4efd2f5c-b913-4096-b851-0f95bcecaff5)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
